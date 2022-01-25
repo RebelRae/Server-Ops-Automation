@@ -1,16 +1,16 @@
 // ------------------------------ //
 // -[DOMAIN] Server------ //
-// -V [VERSION]---------------------- //
-// -Author: [AUTHOR]------ //
+// -V [APP_V]---------------------- //
+// -Author: [NEW_USER]------ //
 // ------------------------------ //
 
 // ---------- Imports ---------- //
 const http = require('http')
-var express = require('express')
+const express = require('express')
 
 // ---------- Global Variables  ---------- //
 const port = [PORT]
-var app = express()
+const app = express()
 
 // ---------- Configuration ---------- //
 app.use(express.urlencoded({ extended: false }))
