@@ -1,7 +1,116 @@
-# Nginx and Node.js server automated set up - includes subdomain server blocks
+# Server Ops Automaation - 1.0.2
+## - includes subdomain server blocks
 
 ### You must have a domain name pointing at the ip addresss of your server with subdomain records
 
+#
+# **NOTE : DOCUMENTATION OUT OF DATE**
+## You can still use it, as it's very user friendly
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# DO NOT RELY ON THESSE DOCS
+#
+#
+#
+#
+#
+#
+#
+# THESE DOCS ARE POO
+#
+#
+#
+#
+#
+#
+# I'M NOT THE SAME PERSON I WAS "WHEN" I FIRST MADE THIS
+#
+#
+#
+#
+#
+#
+#
+# WHY?
+#
+#
+#
+#
+#
+#
+# I'VE ~~LEARNED~~
+#
+#
+#
+#
+#
+#
+#
+## I'VE LOVED
+#
+#
+#
+#
+#
+#
+#
+#
+# I'VE CRIED
+#
+#
+#
+#
+#
+#
+#
+# `OH GOD, THE CRYING`
+#
+#
+#
+#
+#
+#
+#
+#
+# I {DIGRESS}
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# [IF YOU CLICK HERE TO BUY ME CIGARETTES I SAVE TIME WALKING TO THE STORE, AND AM THEREFORE MORE PRODUCTIVE](PayPal.me/RebelRae)
+#
+#
+#
+#
+#
+#
+# YOU COULD HAVE PREVENTED THIS
+#
+#
+#
+#
+#
+#
+```JS
+// ANYWAY, THESE DOCS DON'T APPLY FR
+```
+#
+#
+#
+#
+#
+#
 #
 ## Configuration
 First open
